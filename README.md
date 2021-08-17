@@ -1,3 +1,5 @@
+Worthless scum
+
 ![onigari's GitHub stats](https://github-readme-stats.vercel.app/api?username=onigari&show_icons=true&theme=dark&layout=compact) 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onigari&hide=autohotkey,batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
